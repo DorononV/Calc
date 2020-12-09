@@ -1,0 +1,107 @@
+html, body {
+font-family: "Arial";
+background-color: #1f1f1e;
+margin: 0;
+padding: 0;
+height: 100%;
+width: 100%;
+}
+
+h1 {
+color: #ffffff;
+}
+
+#t1 {
+width: 95%;
+height: 50px;
+text-align: center;
+font-size: 250%;
+border-color: #a7a50f #000 #a7a50f;
+}
+#sum {
+width: 260px;
+height: 40px;
+font-size: 250%;
+text-align: center;
+border-color: #a7a50f #000 #a7a50f;
+}
+
+.new {
+   width: 22%;
+   height: 80px;
+   display: inline-block;
+color: black;
+font: bold 80% serif;
+font-size: 200%;
+text-decoration: none;
+outline: none;
+border-width: 2px 0;
+border-style: solid none;
+border-color: #adacab #000 #adacab;
+border-radius: 6px;
+background: linear-gradient(#ffffff, #cac8c6) #cac8c6;
+transition: 0.2s;
+}
+
+.new:hover { background: linear-gradient(#f5f5f5, #b8b8b4) #f5f5f5; }
+.new:active { background: linear-gradient(#f5f5f5, #919187) #f5f5f5; }
+
+.new2 {
+  width: 44%;
+  height: 80px;
+  display: inline-block;
+color: black;
+font: bold 80% serif;
+font-size: 200%;
+text-decoration: none;
+outline: none;
+border-width: 2px 0;
+border-style: solid none;
+border-color: #797979 #000 #797979;
+border-radius: 6px;
+background: linear-gradient(#a4a4a4, #727170) #727170;
+transition: 0.2s;
+}
+
+.new2:hover { background: linear-gradient(#9f9b9b, #787373) #9f9b9b; }
+.new2:active { background: linear-gradient(#9f9b9b, #21211d) #9f9b9b; }
+
+.new3 {
+   width: 22%;
+   height: 80px;
+   display: inline-block;
+color: black;
+font: bold 80% serif;
+font-size: 200%;
+text-decoration: none;
+outline: none;
+border-width: 2px 0;
+border-style: solid none;
+border-color: #b66d05 #000 #b66d05;
+border-radius: 6px;
+background: linear-gradient(#f7bb66, #b07117) #b07117;
+transition: 0.2s;
+}
+
+.new3:hover { background: linear-gradient(#fdb145, #c8790a) #fdb145; }
+.new3:active { background: linear-gradient(#fdb145, #a26611) #fdb145; }
+
+.new4 {
+   width: 22%;
+   height: 80px;
+   display: inline-block;
+color: black;
+font: bold 80% serif;
+font-size: 200%;
+text-decoration: none;
+outline: none;
+border-width: 2px 0;
+border-style: solid none;
+border-color: #797979 #000 #797979;
+border-radius: 6px;
+background: linear-gradient(#a4a4a4, #727170) #727170;
+transition: 0.2s;
+}
+
+.new4:hover { background: linear-gradient(#9f9b9b, #787373) #9f9b9b; }
+.new4:active { background: linear-gradient(#9f9b9b, #21211d) #9f9b9b; }
